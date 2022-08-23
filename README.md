@@ -17,16 +17,19 @@
 # Operaciones del CRUD
 
 1. **Insertamos un plato nuevo en la tabla `platos`**
+
 ![Info de la tabla](https://github.com/aeseb/Imagenes/blob/main/db2a.jpg?raw=true)
 
 ![Id insertado](https://github.com/aeseb/Imagenes/blob/main/db2b.jpg?raw=true)
 
 1. **Valor `con_oferta` de pizza `actualiza` a `FALSE`**
+
 ![Info de la tabla](https://github.com/aeseb/Imagenes/blob/main/db2c.jpg?raw=true)
 
 ![Tabla actualizada](https://github.com/aeseb/Imagenes/blob/main/db2d.jpg?raw=true)
 
 1. **Se `borra` un registro de la tabla**
+
 ![Info de la tabla](https://github.com/aeseb/Imagenes/blob/main/db2e.jpg?raw=true)
 
 ![Registro borrado](https://github.com/aeseb/Imagenes/blob/main/db2f.jpg?raw=true)
